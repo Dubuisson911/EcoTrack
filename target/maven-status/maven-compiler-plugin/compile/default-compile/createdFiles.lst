@@ -1,5 +1,7 @@
 com\umg\ecotrack\export\ExportService.class
+com\umg\ecotrack\ui\LoginForm.class
 com\umg\ecotrack\model\Collection.class
+com\umg\ecotrack\ui\LoginForm$1.class
 com\umg\ecotrack\ui\PointsForm.class
 com\umg\ecotrack\dao\impl\UserDaoImpl.class
 com\umg\ecotrack\dao\UserDao.class
@@ -8,6 +10,7 @@ com\umg\ecotrack\db\DB.class
 com\umg\ecotrack\ui\ReportsForm$1.class
 com\umg\ecotrack\model\Point.class
 com\umg\ecotrack\dao\PointDao.class
+com\umg\ecotrack\ui\MainMenuForm.class
 com\umg\ecotrack\EcoTrack.class
 com\umg\ecotrack\model\User.class
 com\umg\ecotrack\ui\CollectionsForm$1.class
